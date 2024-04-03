@@ -1,1 +1,7 @@
-fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
+jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
+
+i got it with:
+
+nc localhost 30000
+
+
