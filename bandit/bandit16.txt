@@ -1,4 +1,0 @@
-JQttfApK4SeyHwDlI9SXGR50qclOAil1
-
-I got it by using:
-ncat --ssl localhost 30001

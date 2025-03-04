@@ -1,6 +1,0 @@
-hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
-p6ggwdNHncnmCNxuAt0KtKVq185ZU7AW
-
-The first password is the chosen one
-
-diff passwords.new passwords.old

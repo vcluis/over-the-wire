@@ -1,6 +1,0 @@
-for this level i got an ssk key, it is located in
-
-./files/bandit14
-
-password from bandit14 on /etc/bandit_pass/bandit14
-fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
